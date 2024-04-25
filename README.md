@@ -1,1 +1,2 @@
 # NFT-MARKETPLACE
+Created an online auction platform using C++ and Object-Oriented Programming principles. Implemented bidding management, buying, and selling transactions with real-time tracking and monitoring. Incorporated auction functionality with bid tracking, price management, and inventory control features. Ensured time limit enforcement for auctions to provide a fair and regulated bidding environment.
